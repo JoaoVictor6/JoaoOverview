@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React, node, mysql, typescript**
 
-- 🌱 I’m currently learning **Bases of web, SQL, Rust**
+- 🌱 I’m currently learning **Bases of web, SQL**
 
 - 💬 Ask me about **react, node, typescript**
 
