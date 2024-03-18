@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joao Victor</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
-- 🔭 I’m currently working on **React, node, postgres, typescript, AWS**
+- 🔭 I’m currently working on **react, node, postgres, typescript, AWS**
 
-- 🌱 I’m currently learning **Bases of web, SQL**
+- 🌱 I’m currently learning **bases of web, SQL and Rust**
 
-- 💬 Ask me about **react, node, typescript, golang**
+- 💬 Ask me about **react, node, typescript, nextjs**
 
 - 📫 How to reach me **santosjoao.dev@gmail.com**
 
